@@ -2,6 +2,9 @@
 
 General libary for sort vizualizations, [sort-lab](https://github.com/League-Labs/sort-lab)
 
+* [Sort-lab demo](https://league-labs.github.io/sort-lab/)
+
+
 ### Adriel Alcala
 
 * Animation: [https://whizoji.github.io/test/](https://whizoji.github.io/test/)
